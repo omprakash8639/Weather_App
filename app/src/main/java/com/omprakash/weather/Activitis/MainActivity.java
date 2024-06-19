@@ -178,7 +178,7 @@ public class MainActivity extends AppCompatActivity {
         Request request = new Request.Builder()
                 .url("https://weatherapi-com.p.rapidapi.com/forecast.json?q=" + q + "&days=1")
                 .get()
-                .addHeader("x-rapidapi-key", "c14c84afc2mshdd2dd7b4dbd03a7p19f203jsn285315cf33cd")
+                .addHeader("x-rapidapi-key", "Enter your api key")
                 .addHeader("x-rapidapi-host", "weatherapi-com.p.rapidapi.com")
                 .build();
 
