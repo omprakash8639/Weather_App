@@ -1,0 +1,510 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string-array name="destination_array">
+        <!-- Andhra Pradesh -->
+        <item>Amaravathi</item>
+        <item>Araku Valley</item>
+        <item>Chittoor</item>
+        <item>Diguva Ahobila Lakshmi Narasimha Swamy Temple</item>
+        <item>Gandikota</item>
+        <item>Kotappakonda</item>
+        <item>Pakala Beach-side</item>
+        <item>Sri Padmavathi Ammavari Temple</item>
+        <item>Tirumala Temple</item>
+        <item>Vijayawada</item>
+        <item>Visakhapatnam</item>
+        <item>Vizianagaram</item>
+        <item>Ramoji Film City</item>
+        <item>Tirupati</item>
+        <item>Hyderabad</item>
+        <item>Bihar</item>
+        <item>Arrah</item>
+        <item>Begusarai</item>
+        <item>Bettiah</item>
+        <item>Bhagalpur</item>
+        <item>Bihar Sharif</item>
+        <item>Bodh Gaya</item>
+        <item>Buxar</item>
+        <item>Chhapra</item>
+        <item>Darbhanga</item>
+        <item>Gaya</item>
+        <item>Hajipur</item>
+        <item>Katihar</item>
+        <item>Madhubani</item>
+        <item>Motihari</item>
+        <item>Munger</item>
+        <item>Muzaffarpur</item>
+        <item>Nalanda</item>
+        <item>Patna</item>
+        <item>Purnia</item>
+        <item>Rajgir</item>
+        <item>Saharsa</item>
+        <item>Sasaram</item>
+        <item>Vaishali</item>
+
+        <!-- Goa -->
+        <item>Aldona</item>
+        <item>Anjuna</item>
+        <item>Bardez</item>
+        <item>Calangute</item>
+        <item>Candolim</item>
+        <item>Margao</item>
+        <item>Mormugao</item>
+        <item>Palolem Beach</item>
+        <item>Panaji</item>
+        <item>Quepem</item>
+        <item>Silvassa</item>
+        <item>Vasco</item>
+        <item>Sitamarhi</item>
+        <!-- Gujarat -->
+        <item>Ahmedabad</item>
+        <item>Anand</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Bhuj</item>
+        <item>Daman</item>
+        <item>Dwarka</item>
+        <item>Gandhidham</item>
+        <item>Gandhinagar</item>
+        <item>Gir National Park</item>
+        <item>Godhra</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kutch</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Nadiad</item>
+        <item>Navsari</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Rani Ki Vav</item>
+        <item>Saputara</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+        <item>Veraval</item>
+
+        <!-- Maharashtra -->
+        <item>Ahmedabad</item>
+        <item>Anand</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Bhuj</item>
+        <item>Daman</item>
+        <item>Dwarka</item>
+        <item>Gandhidham</item>
+        <item>Gandhinagar</item>
+        <item>Gir National Park</item>
+        <item>Godhra</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kutch</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Nadiad</item>
+        <item>Navsari</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Rani Ki Vav</item>
+        <item>Saputara</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+        <item>Veraval</item>
+        <item>Ajanta and Ellora Caves</item>
+        <item>Alibag</item>
+        <item>Amboli</item>
+        <item>Aurangabad</item>
+        <item>Bhamragad</item>
+        <item>Bhandardara</item>
+        <item>Bhimashankar</item>
+        <item>Chikhaldara</item>
+        <item>Chiplun</item>
+        <item>Dapoli</item>
+        <item>Ganpatipule</item>
+        <item>Igatpuri</item>
+        <item>Juhu</item>
+        <item>Kolhapur</item>
+        <item>Lonavla</item>
+        <item>Mahabaleshwar</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nashik</item>
+        <item>Panchgani</item>
+        <item>Pune</item>
+        <item>Ratnagiri</item>
+        <item>Shirdi</item>
+
+        <!-- Delhi -->
+        <item>Ahmedabad</item>
+        <item>Anand</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Bhuj</item>
+        <item>Daman</item>
+        <item>Dwarka</item>
+        <item>Gandhidham</item>
+        <item>Gandhinagar</item>
+        <item>Gir National Park</item>
+        <item>Godhra</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kutch</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Nadiad</item>
+        <item>Navsari</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Rani Ki Vav</item>
+        <item>Saputara</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+        <item>Veraval</item>
+        <item>Akshardham Temple</item>
+        <item>Chandni Chowk</item>
+        <item>Gandhi Smriti</item>
+        <item>Humayun Tomb</item>
+        <item>India Gate</item>
+        <item>Jama Masjid</item>
+        <item>Lotus Temple</item>
+        <item>Qutub Minar</item>
+        <item>Red Fort</item>
+        <item>Safdarjungs Tomb</item>
+        <item>Sarojini Market</item>
+
+        <!-- Uttar Pradesh -->
+        <item>Agra</item>
+        <item>Aligarh</item>
+        <item>Allahabad</item>
+        <item>Ayodhya</item>
+        <item>Bareilly</item>
+        <item>Chitrakoot</item>
+        <item>Dudhwa National Park</item>
+        <item>Fatehpur Sikri</item>
+        <item>Ghaziabad</item>
+        <item>Hastinapur</item>
+        <item>Lucknow</item>
+        <item>Mathura</item>
+        <item>National Chambal Wildlife Sanctuary</item>
+        <item>Varanasi</item>
+        <item>Vrindavan</item>
+
+        <!-- Goa -->
+        <item>Aldona</item>
+        <item>Anjuna</item>
+        <item>Bardez</item>
+        <item>Calangute</item>
+        <item>Candolim</item>
+        <item>Margao</item>
+        <item>Mormugao</item>
+        <item>Palolem Beach</item>
+        <item>Panaji</item>
+        <item>Quepem</item>
+        <item>Silvassa</item>
+        <item>Vasco</item>
+
+        <!-- Gujarat -->
+        <item>Ahmedabad</item>
+        <item>Anand</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Bhuj</item>
+        <item>Daman</item>
+        <item>Dwarka</item>
+        <item>Gandhidham</item>
+        <item>Gandhinagar</item>
+        <item>Gir National Park</item>
+        <item>Godhra</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kutch</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Nadiad</item>
+        <item>Navsari</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Rani Ki Vav</item>
+        <item>Saputara</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+        <item>Veraval</item>
+
+        <!-- Maharashtra -->
+        <item>Ahmedabad</item>
+        <item>Anand</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Bhuj</item>
+        <item>Daman</item>
+        <item>Dwarka</item>
+        <item>Gandhidham</item>
+        <item>Gandhinagar</item>
+        <item>Gir National Park</item>
+        <item>Godhra</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kutch</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Nadiad</item>
+        <item>Navsari</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Rani Ki Vav</item>
+        <item>Saputara</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+        <item>Veraval</item>
+        <item>Ajanta and Ellora Caves</item>
+        <item>Alibag</item>
+        <item>Amboli</item>
+        <item>Aurangabad</item>
+        <item>Bhamragad</item>
+        <item>Bhandardara</item>
+        <item>Bhimashankar</item>
+        <item>Chikhaldara</item>
+        <item>Chiplun</item>
+        <item>Dapoli</item>
+        <item>Ganpatipule</item>
+        <item>Igatpuri</item>
+        <item>Juhu</item>
+        <item>Kolhapur</item>
+        <item>Lonavla</item>
+        <item>Mahabaleshwar</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nashik</item>
+        <item>Panchgani</item>
+        <item>Pune</item>
+        <item>Ratnagiri</item>
+        <item>Shirdi</item>
+
+        <!-- Delhi -->
+        <item>Ahmedabad</item>
+        <item>Anand</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Bhuj</item>
+        <item>Daman</item>
+        <item>Dwarka</item>
+        <item>Gandhidham</item>
+        <item>Gandhinagar</item>
+        <item>Gir National Park</item>
+        <item>Godhra</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kutch</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Nadiad</item>
+        <item>Navsari</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Rani Ki Vav</item>
+        <item>Saputara</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+        <item>Veraval</item>
+        <item>Akshardham Temple</item>
+        <item>Chandni Chowk</item>
+        <item>Gandhi Smriti</item>
+        <item>Humayun Tomb</item>
+        <item>India Gate</item>
+        <item>Jama Masjid</item>
+        <item>Lotus Temple</item>
+        <item>Qutub Minar</item>
+        <item>Red Fort</item>
+        <item>Safdarjungs Tomb</item>
+        <item>Sarojini Market</item>
+
+        <!-- Uttar Pradesh -->
+        <item>Agra</item>
+        <item>Aligarh</item>
+        <item>Allahabad</item>
+        <item>Ayodhya</item>
+        <item>Bareilly</item>
+        <item>Chitrakoot</item>
+        <item>Dudhwa National Park</item>
+        <item>Fatehpur Sikri</item>
+        <item>Ghaziabad</item>
+        <item>Hastinapur</item>
+        <item>Lucknow</item>
+        <item>Mathura</item>
+        <item>National Chambal Wildlife Sanctuary</item>
+        <item>Varanasi</item>
+        <item>Vrindavan</item>
+        <!-- Karnataka -->
+        <item>Bengaluru</item>
+        <item>Mysuru</item>
+        <item>Hampi</item>
+        <item>Gokarna</item>
+        <item>Badami</item>
+        <item>Belur</item>
+        <item>Halebidu</item>
+        <item>Coorg</item>
+        <item>Udupi</item>
+
+        <!-- Kerala -->
+        <item>Thiruvananthapuram</item>
+        <item>Kochi</item>
+        <item>Kozhikode</item>
+        <item>Alappuzha</item>
+        <item>Munnar</item>
+        <item>Thekkady</item>
+        <item>Kovalam</item>
+        <item>Wayanad</item>
+
+        <!-- Rajasthan -->
+        <item>Jaipur</item>
+        <item>Udaipur</item>
+        <item>Jodhpur</item>
+        <item>Jaisalmer</item>
+        <item>Ajmer</item>
+        <item>Pushkar</item>
+        <item>Mount Abu</item>
+        <item>Ranthambore National Park</item>
+
+        <!-- Tamil Nadu -->
+        <item>Chennai</item>
+        <item>Madurai</item>
+        <item>Coimbatore</item>
+        <item>Kanyakumari</item>
+        <item>Rameswaram</item>
+        <item>Ooty</item>
+        <item>Thanjavur</item>
+        <item>Kanchipuram</item>
+
+        <!-- West Bengal -->
+        <item>Kolkata</item>
+        <item>Darjeeling</item>
+        <item>Kalimpong</item>
+        <item>Howrah</item>
+        <item>Murshidabad</item>
+        <item>Sundarbans National Park</item>
+        <item>Digha</item>
+
+        <!-- Punjab -->
+        <item>Amritsar</item>
+        <item>Ludhiana</item>
+        <item>Jalandhar</item>
+        <item>Patiala</item>
+        <item>Wagah Border</item>
+        <item>Golden Temple</item>
+        <item>Jallianwala Bagh</item>
+
+        <!-- Himachal Pradesh -->
+        <item>Shimla</item>
+        <item>Manali</item>
+        <item>Dharamshala</item>
+        <item>McLeod Ganj</item>
+        <item>Kasol</item>
+        <item>Kullu</item>
+        <item>Chamba</item>
+
+        <!-- Assam -->
+        <item>Guwahati</item>
+        <item>Kaziranga National Park</item>
+        <item>Tezpur</item>
+        <item>Haflong</item>
+        <item>Manas National Park</item>
+        <item>Majuli</item>
+        <item>Dibrugarh</item>
+        <!-- Andhra Pradesh -->
+        <item>Kurnool</item>
+        <item>Kadapa</item>
+        <item>Machilipatnam</item>
+        <item>Kakinada</item>
+        <item>Srikalahasti</item>
+        <item>Simhachalam</item>
+
+        <!-- Bihar -->
+        <item>Munger Fort</item>
+        <item>Champaran</item>
+        <item>Valmiki National Park</item>
+        <item>Bhitiharwa Ashram</item>
+        <item>Chhinnamasta Temple</item>
+
+        <!-- Goa -->
+        <item>Old Goa</item>
+        <item>Se Cathedral</item>
+        <item>Basilica of Bom Jesus</item>
+        <item>Fort Aguada</item>
+        <item>Chapora Fort</item>
+
+        <!-- Gujarat -->
+        <item>Somnath Temple</item>
+        <item>Akshar Dham Temple</item>
+        <item>Dholavira</item>
+        <item>Modhera Sun Temple</item>
+        <item>Statue of Unity</item>
+
+        <!-- Maharashtra -->
+        <item>Lavasa</item>
+        <item>Elephanta Caves</item>
+        <item>Bhigwan Bird Sanctuary</item>
+        <item>Kanheri Caves</item>
+        <item>Matheran</item>
+
+        <!-- Delhi -->
+        <item>Connaught Place</item>
+        <item>Lodhi Gardens</item>
+        <item>National Rail Museum</item>
+        <item>Nizamuddin Dargah</item>
+        <item>Azad Hind Gram</item>
+
+        <!-- Uttar Pradesh -->
+        <item>Meerut</item>
+        <item>Chandraprabha Wildlife Sanctuary</item>
+        <item>Kanpur</item>
+        <item>Shivkalin Ghat</item>
+        <item>Lalita Devi Temple</item>
+
+        <!-- Karnataka -->
+        <item>Badami Cave Temples</item>
+        <item>Banavasi</item>
+        <item>Hassan</item>
+        <item>Mangalore</item>
+        <item>Bijapur</item>
+
+        <!-- Kerala -->
+        <item>Poovar</item>
+        <item>Kumarakom</item>
+        <item>Varkala</item>
+        <item>Fort Kochi</item>
+        <item>Periyar National Park</item>
+
+        <!-- Rajasthan -->
+        <item>Ajmer Sharif Dargah</item>
+        <item>Bundi</item>
+
+
+        <!-- Tamil Nadu -->
+        <item>Kodaikanal</item>
+        <item>Yercaud</item>
+        <item>Mahabalipuram</item>
+        <item>Kumbakonam</item>
+
+        <!-- West Bengal -->
+        <item>Victoria Memorial</item>
+        <item>Indian Museum</item>
+        <item>Howrah Bridge</item>
+        <item>Eden Gardens</item>
+
+        <!-- Punjab -->
+        <item>Chandigarh</item>
+    </string-array>
+</resources>
